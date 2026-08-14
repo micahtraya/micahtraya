@@ -48,7 +48,7 @@ I am interested in opportunities involving:
 
 ## 🔗 Connect With Me
 
-**LinkedIn:** [Micah Traya](www.linkedin.com/in/micah-traya)
+**LinkedIn:** [Micah Traya](https://www.linkedin.com/in/micah-traya/)
 
 **Email:** micahtraya16@gmail.com
 
