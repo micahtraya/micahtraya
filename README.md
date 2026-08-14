@@ -18,18 +18,18 @@ Alongside my IT background, I am developing hands-on expertise in **workflow aut
 
 ### n8n Automation Portfolio
 
-I have built **10 practical n8n automation projects** covering:
+A collection of 10 practical automation projects demonstrating workflow automation, AI integration, business process automation, and client-focused solutions.
 
-- Age Verification
-- Social Media Advertisement Generation
-- Customer Support Ticket Routing
-- Leave Request Approval
-- TikTok Affiliate Content Generation
-- Smart Inventory Alerts
-- AI Social Media Caption Generation
-- AI Customer Support
-- AI Lead Qualification
-- Client-Style Business Automation
+01 — Age Verification
+02 — Social Media Advertisement Generator
+03 — Customer Support Ticket Router
+04 — Leave Request Approval
+05 — TikTok Affiliate Content Generator
+06 — Smart Inventory Alert System
+07 — AI Social Media Caption Generator
+08 — AI Customer Support Assistant
+09 — AI Lead Qualification System
+10 — Client-Style Business Automation
 
 Each project demonstrates how workflow automation can be used to reduce repetitive tasks, improve business processes, and support day-to-day operations.
 
