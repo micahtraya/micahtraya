@@ -1,6 +1,6 @@
-## Hi, I'm Micah Traya 👋
+### Hi, I'm Micah Traya 👋
 
-Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
+## Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
 
 I’m a Technical Support and Cloud Professional with 8+ years of experience supporting enterprise systems, cloud platforms, Microsoft environments, and global service operations.
 
@@ -10,13 +10,13 @@ Currently, I'm expanding my development and automation skills by building real-w
 
 ### 🚀 Currently Building
 
-HIMIG — Praise & Worship Songbook
+## HIMIG — Praise & Worship Songbook
 
 HIMIG is a full-stack worship songbook and team management application that I'm building for KCCC Psalmist.
 
 The project started as a songbook application and has evolved into an organization-based platform designed to securely manage worship teams, members, songs, setlists, and worship services.
 
-HIMIG currently includes
+## HIMIG currently includes
 🎵 Shared worship song library
 🎼 Chords, lyrics, tabs, and Nashville Number Code
 🎹 Key-aware chord transposition
