@@ -1,6 +1,6 @@
-### Hi, I'm Micah Traya 👋
+## Hi, I'm Micah Traya 👋
 
-## Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
+### Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
 
 I’m a Technical Support and Cloud Professional with 8+ years of experience supporting enterprise systems, cloud platforms, Microsoft environments, and global service operations.
 
@@ -8,31 +8,48 @@ I enjoy solving real-world technical and operational problems through automation
 
 Currently, I'm expanding my development and automation skills by building real-world applications, workflow automations, and AI-assisted solutions.
 
-### 🚀 Currently Building
+## 🚀 Currently Building
 
-## HIMIG — Praise & Worship Songbook
+### HIMIG — Praise & Worship Songbook
 
 HIMIG is a full-stack worship songbook and team management application that I'm building for KCCC Psalmist.
 
 The project started as a songbook application and has evolved into an organization-based platform designed to securely manage worship teams, members, songs, setlists, and worship services.
 
-## HIMIG currently includes
+### HIMIG currently includes
+
 🎵 Shared worship song library
+
 🎼 Chords, lyrics, tabs, and Nashville Number Code
+
 🎹 Key-aware chord transposition
+
 🎤 Worship Mode for live services
+
 📋 Worship setlists
+
 👥 Team member management
+
 🔐 Role-based permissions
+
 🏢 Organization-based architecture
+
 🛡️ Supabase Row Level Security (RLS)
+
 🔑 Supabase Authentication
+
 ❤️ Personal favorites
+
 ⚙️ Personal song preferences
+
 📱 Mobile-friendly interface
+
 📲 Progressive Web App (PWA) support
+
 ☁️ Vercel deployment
-HIMIG Architecture
+
+### HIMIG Architecture
+
 HIMIG
 │
 ├── Authentication
@@ -60,7 +77,8 @@ HIMIG
 
 The application is currently being developed toward a broader multi-organization architecture, allowing different worship teams to securely manage their own members and worship resources.
 
-🛠️ Technology & Tools
+### 🛠️ Technology & Tools
+
 IT & Cloud
 Microsoft 365
 Active Directory
