@@ -1,4 +1,4 @@
-## Hi, I'm Micah Traya 👋
+# Hi, I'm Micah Traya 👋
 
 ### Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
 
@@ -52,48 +52,27 @@ The project started as a songbook application and has evolved into an organizati
 
 HIMIG
 │
-
 ├── Authentication
-
 │   └── Supabase Auth
-
 │
-
 ├── Organizations
-
 │   ├── Organization Members
-
 │   ├── Roles & Permissions
-
 │   ├── Songs
-
 │   ├── Setlists
-
 │   └── Setlist Songs
-
 │
 ├── Personal User Data
-
 │   ├── Favorites
-
 │   ├── Personal Notes
-
 │   └── Song Preferences
-
 │
-
 └── Worship Mode
-
     ├── Lyrics
-    
     ├── Chords
-    
     ├── Tabs
-    
     ├── Number Code
-    
     ├── Service Key
-    
     └── Live Transposition
     
 
