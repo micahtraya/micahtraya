@@ -52,28 +52,50 @@ The project started as a songbook application and has evolved into an organizati
 
 HIMIG
 │
+
 ├── Authentication
+
 │   └── Supabase Auth
+
 │
+
 ├── Organizations
+
 │   ├── Organization Members
+
 │   ├── Roles & Permissions
+
 │   ├── Songs
+
 │   ├── Setlists
+
 │   └── Setlist Songs
+
 │
 ├── Personal User Data
+
 │   ├── Favorites
+
 │   ├── Personal Notes
+
 │   └── Song Preferences
+
 │
+
 └── Worship Mode
+
     ├── Lyrics
+    
     ├── Chords
+    
     ├── Tabs
+    
     ├── Number Code
+    
     ├── Service Key
+    
     └── Live Transposition
+    
 
 The application is currently being developed toward a broader multi-organization architecture, allowing different worship teams to securely manage their own members and worship resources.
 
