@@ -1,6 +1,6 @@
 # Hi, I'm Micah Traya 👋
 
-### Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
+## Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
 
 I’m a Technical Support and Cloud Professional with 8+ years of experience supporting enterprise systems, cloud platforms, Microsoft environments, and global service operations.
 
@@ -118,11 +118,12 @@ SaaS architecture
 Multi-tenant application design
 Advanced workflow automation
 AI-assisted software development
-⚙️ Automation Portfolio
+
+### ⚙️ Automation Portfolio
 
 I build practical automation workflows focused on reducing repetitive work and improving business processes.
 
-My automation projects include:
+#### My automation projects include:
 
 Workflow automation
 API integrations
@@ -132,14 +133,16 @@ Lead management
 Business process automation
 AI-assisted workflows
 CRM automation
-Featured Automation Project
 
-n8n Automation Portfolio
+### Featured Automation Project
+
+#### n8n Automation Portfolio
 
 A collection of practical automation projects demonstrating workflow design, API integration, business process automation, and AI-assisted workflows.
 
-💻 Featured Project
-🎵 HIMIG
+### 💻 Featured Project
+
+#### 🎵 HIMIG
 
 Praise & Worship Songbook & Team Management Platform
 
@@ -159,7 +162,7 @@ Vercel
 
 The project also includes a custom chord-transposition engine supporting key-aware transposition, chord qualities, extensions, slash chords, and sharp/flat note preferences.
 
-🔐 Security & Architecture
+### 🔐 Security & Architecture
 
 One of my current areas of focus is building applications with security enforced at multiple layers.
 
@@ -190,7 +193,7 @@ PostgreSQL
 
 This approach allows application permissions to be enforced beyond the user interface.
 
-🎯 Professional Focus
+### 🎯 Professional Focus
 
 I'm interested in opportunities involving:
 
@@ -209,7 +212,7 @@ Full-Stack Development
 
 I particularly enjoy roles where technical troubleshooting, automation, systems thinking, and continuous improvement come together.
 
-📈 What I'm Working Toward
+### 📈 What I'm Working Toward
 
 My current goal is to combine my background in IT support, cloud administration, enterprise systems, and automation with modern application development.
 
@@ -227,14 +230,15 @@ Practical Technical Solutions
 
 I believe the best technical solutions are not necessarily the most complicated ones — they are the ones that solve the actual problem, are secure, maintainable, and useful to the people who rely on them.
 
-📂 Projects
-🎵 HIMIG
+### 📂 Projects
+
+#### 🎵 HIMIG
 
 Praise & Worship Songbook and Team Management Platform
 
 Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS • Vercel
 
-⚙️ n8n Automation Portfolio
+#### ⚙️ n8n Automation Portfolio
 
 Practical automation workflows demonstrating API integration, workflow design, business process automation, and AI-assisted automation.
 
@@ -250,4 +254,5 @@ n8n • APIs • Webhooks • Automation • AI
 
 ---
 
+⭐ **View my [HIMIG — Worship Songbook & Team Management Platform] (https://github.com/micahtraya/himig-worship-app)**
 ⭐ **View my [n8n Automation Portfolio](https://github.com/micahtraya/n8n-automation-portfolio)**
