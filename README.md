@@ -179,32 +179,26 @@ User
  
 Supabase Authentication
 
- │
  ▼
  
 Organization Membership
 
- │
  ▼
  
 Role-Based Permissions
 
- │
  ▼
  
 Frontend Permission Controls
 
- │
  ▼
  
 Server-Side API Validation
 
- │
  ▼
  
 Supabase RLS
 
- │
  ▼
  
 PostgreSQL
