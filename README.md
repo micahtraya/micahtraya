@@ -1,6 +1,6 @@
 # Hi, I'm Micah Traya 👋
 
-### Technical Support & Cloud Professional | Automation Builder | Full-Stack Developer
+### Systems Engineer - L2 | Technical Support & Cloud Professional | Microsoft 365 Administrator | Azure & Active Directory | AWS | ServiceNow | Full-Stack Developer | Automation Builder
 
 I’m a Technical Support and Cloud Professional with **8+ years of experience** supporting enterprise systems, cloud platforms, Microsoft environments, and global service operations.
 
