@@ -265,9 +265,10 @@ Practical automation workflows demonstrating API integration, workflow design, b
 ---
 
 ## 📫 Connect With Me
-
+* 📧 micahtraya16@gmail.com
 * 💼 LinkedIn: [Micah Traya](https://www.linkedin.com/in/micah-traya/)
 * 💻 GitHub: [@micahtraya](https://github.com/micahtraya)
+* 📁 Notion: https://app.notion.com/p/Micah-B-Traya-ff61ac8ecc534629977814847662c613
 
 ---
 
