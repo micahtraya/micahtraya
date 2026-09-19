@@ -50,8 +50,30 @@ The project started as a songbook application and has evolved into an organizati
 
 ### HIMIG Architecture
 
-<img width="298" height="542" alt="image" src="https://github.com/user-attachments/assets/6d6264f3-dccb-45f1-b958-5f934a514b59" /> 
-
+HIMIG 
+│ 
+├── Authentication 
+│   └── Supabase Auth 
+│ 
+├── Organizations 
+│   ├── Organization Members 
+│   ├── Roles & Permissions 
+│   ├── Songs 
+│   ├── Setlists 
+│   └── Setlist Songs 
+│ 
+├── Personal User Data 
+│   ├── Favorites 
+│   ├── Personal Notes 
+│   └── Song Preferences 
+│ 
+└── Worship Mode 
+    ├── Lyrics 
+    ├── Chords 
+    ├── Tabs 
+    ├── Number Code 
+    ├── Service Key 
+    └── Live Transposition
 
 
 The application is currently being developed toward a broader multi-organization architecture, allowing different worship teams to securely manage their own members and worship resources.
