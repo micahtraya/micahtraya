@@ -51,8 +51,8 @@ The project started as a songbook application and has evolved into an organizati
 ### HIMIG Architecture
 
 HIMIG
-│
 
+│
 ├── Authentication
 │   └── Supabase Auth
 
