@@ -52,6 +52,7 @@ The project started as a songbook application and has evolved into an organizati
 
 <img width="298" height="542" alt="image" src="https://github.com/user-attachments/assets/6d6264f3-dccb-45f1-b958-5f934a514b59" /> 
 
+
 The application is currently being developed toward a broader multi-organization architecture, allowing different worship teams to securely manage their own members and worship resources.
 
 ### 🛠️ Technology & Tools
@@ -173,6 +174,7 @@ Supabase RLS
  ▼
  
 PostgreSQL
+
 
 This approach allows application permissions to be enforced beyond the user interface.
 
