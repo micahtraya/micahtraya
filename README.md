@@ -53,7 +53,9 @@ The project started as a songbook application and has evolved into an organizati
 <img width="298" height="542" alt="image" src="https://github.com/user-attachments/assets/6d6264f3-dccb-45f1-b958-5f934a514b59" /> 
 
 
+
 The application is currently being developed toward a broader multi-organization architecture, allowing different worship teams to securely manage their own members and worship resources.
+
 
 ### 🛠️ Technology & Tools
 
@@ -96,9 +98,11 @@ Multi-tenant application design
 Advanced workflow automation
 AI-assisted software development
 
+
 ### ⚙️ Automation Portfolio
 
 I build practical automation workflows focused on reducing repetitive work and improving business processes.
+
 
 #### My automation projects include:
 
@@ -111,13 +115,17 @@ Business process automation
 AI-assisted workflows
 CRM automation
 
+
 ### Featured Automation Project
+
 
 #### n8n Automation Portfolio
 
 A collection of practical automation projects demonstrating workflow design, API integration, business process automation, and AI-assisted workflows.
 
+
 ### 💻 Featured Project
+
 
 #### 🎵 HIMIG
 
@@ -137,7 +145,9 @@ Supabase Auth
 Row Level Security
 Vercel
 
+
 The project also includes a custom chord-transposition engine supporting key-aware transposition, chord qualities, extensions, slash chords, and sharp/flat note preferences.
+
 
 ### 🔐 Security & Architecture
 
@@ -178,6 +188,7 @@ PostgreSQL
 
 This approach allows application permissions to be enforced beyond the user interface.
 
+
 ### 🎯 Professional Focus
 
 I'm interested in opportunities involving:
@@ -195,7 +206,9 @@ GoHighLevel
 Cloud & Enterprise Systems
 Full-Stack Development
 
+
 I particularly enjoy roles where technical troubleshooting, automation, systems thinking, and continuous improvement come together.
+
 
 ### 📈 What I'm Working Toward
 
@@ -213,7 +226,9 @@ Software Development
      ↓
 Practical Technical Solutions
 
+
 I believe the best technical solutions are not necessarily the most complicated ones — they are the ones that solve the actual problem, are secure, maintainable, and useful to the people who rely on them.
+
 
 ### 📂 Projects
 
