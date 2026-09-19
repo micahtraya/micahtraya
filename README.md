@@ -52,8 +52,10 @@ The project started as a songbook application and has evolved into an organizati
 
 HIMIG
 │
+
 ├── Authentication
 │   └── Supabase Auth
+
 │
 ├── Organizations
 │   ├── Organization Members
@@ -61,11 +63,13 @@ HIMIG
 │   ├── Songs
 │   ├── Setlists
 │   └── Setlist Songs
+
 │
 ├── Personal User Data
 │   ├── Favorites
 │   ├── Personal Notes
 │   └── Song Preferences
+
 │
 └── Worship Mode
     ├── Lyrics
@@ -171,24 +175,31 @@ HIMIG uses:
 User
  │
  ▼
+ 
 Supabase Authentication
  │
  ▼
+ 
 Organization Membership
  │
  ▼
+ 
 Role-Based Permissions
  │
  ▼
+ 
 Frontend Permission Controls
  │
  ▼
+ 
 Server-Side API Validation
  │
  ▼
+ 
 Supabase RLS
  │
  ▼
+ 
 PostgreSQL
 
 This approach allows application permissions to be enforced beyond the user interface.
@@ -254,5 +265,6 @@ n8n • APIs • Webhooks • Automation • AI
 
 ---
 
-⭐ **View my [HIMIG — Worship Songbook & Team Management Platform] (https://github.com/micahtraya/himig-worship-app)**
+⭐ **View my [HIMIG — Worship Songbook & Team Management Platform](https://github.com/micahtraya/himig-worship-app)**
+
 ⭐ **View my [n8n Automation Portfolio](https://github.com/micahtraya/n8n-automation-portfolio)**
