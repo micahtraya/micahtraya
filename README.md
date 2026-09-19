@@ -55,22 +55,22 @@ HIMIG
 │
 ├── Authentication
 │   └── Supabase Auth
-
 │
+
 ├── Organizations
 │   ├── Organization Members
 │   ├── Roles & Permissions
 │   ├── Songs
 │   ├── Setlists
 │   └── Setlist Songs
-
 │
+
 ├── Personal User Data
 │   ├── Favorites
 │   ├── Personal Notes
 │   └── Song Preferences
-
 │
+
 └── Worship Mode
     ├── Lyrics
     ├── Chords
@@ -173,30 +173,37 @@ One of my current areas of focus is building applications with security enforced
 HIMIG uses:
 
 User
+
  │
  ▼
  
 Supabase Authentication
+
  │
  ▼
  
 Organization Membership
+
  │
  ▼
  
 Role-Based Permissions
+
  │
  ▼
  
 Frontend Permission Controls
+
  │
  ▼
  
 Server-Side API Validation
+
  │
  ▼
  
 Supabase RLS
+
  │
  ▼
  
